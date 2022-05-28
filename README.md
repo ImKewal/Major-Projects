@@ -3,10 +3,12 @@ Project Source and Soft Copies of the Files of all of the groups
 
 Guide to add your project to this repository:
 
-1. Make a New Folder with the name of the project
-2. Make 2 Directories in your project folder with names:
+1. Make a New Folder with the name of your project
+2. Make 2 Directories in your project folder with following names:
+    
     a. Project Report:
         This directory will contain the soft copy of the Project Report file.
+    
     b. Project Source:
         This directory will contain the source codes of your project or Project folder with appropirate directory structure.
 
